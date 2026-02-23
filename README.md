@@ -60,7 +60,7 @@ interactive Power BI/Tableau dashboard for real-time decision-making.
 
 -   Strong SQL skills\
 -   Data storytelling\
--   Clean EDA\
+-   Clean EDA FOR DASHBOARD\
 -   Business insights\
 -   End-to-end workflow
 
